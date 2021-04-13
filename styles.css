@@ -89,7 +89,7 @@ body{
 }
 
 .heading-image-desktop .heading-image-box{
-   transform: translate(-60%, 100%);
+transform: translate(-60%, 100%);
 }
 
 
@@ -135,10 +135,11 @@ body{
 }
 
     .show-text .icon{
-            transform: rotate(180deg);z
+            transform: rotate(180deg);
     }
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 11px; 
+    text-align: center; 
     margin-top: auto;
 }
 .attribution a { color: hsl(228, 45%, 44%); }
